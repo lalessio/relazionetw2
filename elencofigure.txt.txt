@@ -1,0 +1,14 @@
+Gli screenshot consegnati sono stati catturati durante il mese di marzo 2016.
+
+home 1 - www.reddit.com
+home 2 - sempre www.reddit.com ma in un diverso momento (la pagina è dinamica, il contenuto cambia giornalmente)
+myhome - ancora www.reddit.com (questa volta sono loggato con il mio account)
+submit - https://www.reddit.com/submit
+myprofile - https://www.reddit.com/user/nomeutente (link che porta alla propria pagina profilo, varia da utente a utente)
+webdesign - https://www.reddit.com/r/web_design/ (questo screenshot in particolare mostra il subreddit con contenuti ordinati per popolarità)
+italy - https://www.reddit.com/r/italy
+twd - https://www.reddit.com/r/thewalkingdead
+articolo - https://www.reddit.com/r/italy/comments/4b7fvi/f1_monza_muore_addio_al_gp_ditalia_xpost_da/ (oppure https://redd.it/4b7fvi anche se ultimamente il sito ha problemi con gli shortlink e a volte non funzionano)
+se l'altro permalink che ho inserito nella relazione (come esempio per il sistema di commenti) non dovesse funzionare questo è il link per intero https://www.reddit.com/r/AskReddit/comments/406d65/what_is_something_someone_said_that_changed_your/
+
+Buona giornata
